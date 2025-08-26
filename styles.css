@@ -9,11 +9,11 @@ header {
     border-bottom: solid 8px rgb(255, 255, 255);
     padding: 20px;
     font-size: 32px;
-    color: rgb(62, 213, 32);
+    color: rgb(82, 155, 177);
 }
 
 section {
-    background: rgb(97, 234, 28);
+    background: rgb(80, 155, 163);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -23,4 +23,12 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
 }
