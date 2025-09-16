@@ -12,13 +12,39 @@ header {
     color: rgb(82, 155, 177);
 }
 
-section {
-    background: rgb(80, 155, 163);
+.chamada {
+    background: rgb(62, 96, 103);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    color:black;
+}
+
+.chamada-texto{
+    margin-right: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display:flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .chamada-texto {
